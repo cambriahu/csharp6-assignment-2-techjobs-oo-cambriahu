@@ -1,9 +1,9 @@
 ﻿
 namespace TechJobsOO.Tests
 {
-	[TestClass]
-	public class TestTask2
-	{
+    [TestClass]
+    public class TestTask2
+    {
         //This class tests the setup of Location, CoreCompetency, and PositionType Classes.
 
         // Testing Location --------------------------------------------------------
@@ -182,4 +182,3 @@ namespace TechJobsOO.Tests
 
     }
 }
-

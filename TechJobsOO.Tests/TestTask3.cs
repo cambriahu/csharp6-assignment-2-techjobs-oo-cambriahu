@@ -1,9 +1,9 @@
 ﻿
 namespace TechJobsOO.Tests
 {
-	[TestClass]
-	public class TestTask3
-	{
+    [TestClass]
+    public class TestTask3
+    {
         //Testing the new Job class.  Tests are numbered.
 
         /* TODO: Task 3: Remove this line to uncomment the tests
@@ -135,4 +135,3 @@ namespace TechJobsOO.Tests
         TODO: Task 3: Remove this line to uncomment the tests */
     }
 }
-

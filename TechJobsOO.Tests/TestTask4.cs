@@ -2,8 +2,8 @@
 namespace TechJobsOO.Tests
 {
     [TestClass]
-	public class TestTask4
-	{
+    public class TestTask4
+    {
         //Task 4 Tests to verify students' unit tests.  Tests are numbered.
 
         /* TODO: Task 4: Remove this line to uncomment the tests
@@ -78,4 +78,3 @@ namespace TechJobsOO.Tests
 
     }
 }
-

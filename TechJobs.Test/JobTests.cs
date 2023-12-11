@@ -1,9 +1,9 @@
 ﻿
 namespace TechJobs.Tests
 {
-	[TestClass]
-	public class JobTests
-	{
+    [TestClass]
+    public class JobTests
+    {
         //Testing Objects
         //initalize your testing objects here
 
@@ -14,4 +14,3 @@ namespace TechJobs.Tests
         }
     }
 }
-

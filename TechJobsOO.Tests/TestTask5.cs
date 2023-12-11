@@ -1,7 +1,7 @@
 ﻿
 namespace TechJobsOO.Tests
 {
-	[TestClass]
+    [TestClass]
     public class TestTask5
     {
         //Task 5 Tests used to verify that students are testing their custom ToString method.
@@ -150,4 +150,3 @@ namespace TechJobsOO.Tests
     }
 
 }
-
